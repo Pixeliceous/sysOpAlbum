@@ -1,0 +1,2 @@
+display_message("Start playing track  \"Gaze\"", player);
+play_music("sgaze.ogg");

@@ -1,0 +1,2 @@
+display_message("Starting to play track \"Faulty circuit\"", player);
+play_music("faulty.ogg");

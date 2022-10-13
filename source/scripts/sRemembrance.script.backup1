@@ -1,0 +1,2 @@
+display_message("Starting to play track \"Remembrance\"", player);
+play_music("remembrance.ogg");

@@ -1,0 +1,2 @@
+display_message("Starting to play track \"Horizon\"");
+play_music("horizon.ogg");

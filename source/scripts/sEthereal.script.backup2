@@ -1,0 +1,2 @@
+display_message("Starting to play track \"Ethereal\"");
+play_music("ethereal.ogg");

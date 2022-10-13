@@ -1,0 +1,2 @@
+display_message("Starting to play track \"The long line\"");
+play_music("longline.ogg");

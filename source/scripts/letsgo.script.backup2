@@ -1,0 +1,2 @@
+load_map("overworld", coord[3, 1, 0], SOUTH);
+play_sound("nighttime.wav");

@@ -1,0 +1,2 @@
+display_message("Start playing track \"Gardens\"");
+play_music("gardens.ogg");
